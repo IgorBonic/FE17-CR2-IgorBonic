@@ -1,0 +1,62 @@
+let tasks = `[{ 
+
+    "taskName": "shopping", 
+
+    "image": "../pictures/todo.jpg", 
+
+    "description": "Shop for weekly groceries at Billa and Hofer.", 
+
+    "importance": 0    
+
+  },{ 
+
+    "taskName": "learn coding", 
+
+    "image": "../pictures/todo.jpg", 
+
+    "description": "learn Html Css Bootstrap and Java Script", 
+
+    "importance": 0    
+
+  },{ 
+
+    "taskName": "apointment business partner", 
+
+    "image": "../pictures/todo.jpg", 
+
+    "description": "important meeting for a new  dev project ", 
+
+    "importance": 0    
+
+  },{ 
+
+    "taskName": "learn coding", 
+
+    "image": "../pictures/todo.jpg", 
+
+    "description": "learn Html Css Bootstrap and Java Script", 
+
+    "importance": 0   
+
+  },{ 
+
+    "taskName": "important dinner", 
+
+    "image": "../pictures/todo.jpg", 
+
+    "description": "Go out with business partner for dinner ", 
+
+    "importance": 0   
+
+  },{ 
+
+    "taskName": "apointment doctor ", 
+
+    "image": "../pictures/todo.jpg", 
+
+    "description": "at 9:30 doctor termin  for routine check", 
+
+    "importance": 0   
+
+  }]`
+
