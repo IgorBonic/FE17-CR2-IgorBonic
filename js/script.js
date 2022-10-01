@@ -20,8 +20,8 @@ for (let todos of todo) {
     document.getElementById("container").innerHTML += `
     <div class="col-md-4">
     <div class="card"  style="width: 19rem">
-    <img src="${todos.image}" class="text-bg-light p-3" class="card-img-top" alt="..." />
-    <div class="card-body">
+    <img src="${todos.image}" class="text-bg-light p-3" class="card-img-top" alt="..."/>
+    <div class="card-body" >
       <h5 class="card-title">${todos.taskName}</h5>
       <p class="card-text">
         ${todos.description}
